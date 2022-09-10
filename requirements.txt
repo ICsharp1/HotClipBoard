@@ -1,0 +1,5 @@
+pyautogui
+collections
+wmi
+clipboard
+pynput
